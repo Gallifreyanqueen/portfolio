@@ -1,0 +1,11 @@
+.social {
+  display: inline-block;
+}
+
+.edit {
+  background-image: url(../img/dwedit.jpg);
+}
+
+.item {
+  height: 600px;
+}
